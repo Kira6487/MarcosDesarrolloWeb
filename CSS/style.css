@@ -1,0 +1,11 @@
+.container {
+    background-color: brown;
+}
+
+.row {
+    background-color: blue;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    padding: 5px;
+}
